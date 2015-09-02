@@ -1,0 +1,8 @@
+Project to examine properties of a context free grammar.
+
+Each grammar is represented by terminals, non-terminals (first one is a start variable) and rules.
+
+Enables checking if a grammar is regular, in a Chomsky or Greibach normal form
+and converting grammar from Chomsky to Greibach form.
+
+Example usage in Main.
